@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "illuminatedeventsclt.com",
     "description": "",
-    "home_page_url": "https://illuminatedeventsclt",
-    "feed_url": "https://illuminatedeventsclt/feed.json",
+    "home_page_url": "https://illuminatedeventsclt.com",
+    "feed_url": "https://illuminatedeventsclt.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "njhovik"

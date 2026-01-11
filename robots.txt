@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://illuminatedeventsclt/sitemap.xml
+Sitemap: https://illuminatedeventsclt.com/sitemap.xml

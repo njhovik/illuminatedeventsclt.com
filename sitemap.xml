@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://illuminatedeventsclt/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://illuminatedeventsclt.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://illuminatedeventsclt/</loc>
+<loc>https://illuminatedeventsclt.com/</loc>
 </url>
 <url>
-<loc>https://illuminatedeventsclt/test-page.html</loc>
+<loc>https://illuminatedeventsclt.com/test-page.html</loc>
 <lastmod>2026-01-11T11:48:08-05:00</lastmod>
 </url>
 </urlset>
