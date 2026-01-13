@@ -9,5 +9,19 @@
         "name": "njhovik"
     },
     "items": [
+        {
+            "id": "https://illuminatedeventsclt.com/test-page.html",
+            "url": "https://illuminatedeventsclt.com/test-page.html",
+            "title": "Illuminated Events",
+            "summary": "COMING SPRING 2026: Luxury Picnics &amp; Special Occassions Whether your event is intimate or grand, we focus on the details that make it truly shine.&nbsp; Through preferred partner relationships with other local, experienced vendors, we can put together a dream team. We offer white glove&hellip;",
+            "content_html": "\n  <p>\n    COMING SPRING 2026: Luxury Picnics &amp; Special Occassions\n  </p>\n\n  <p>\n    Whether your event is intimate or grand, we focus on the details that make it truly shine.&nbsp; Through preferred partner relationships with other local, experienced vendors, we can put together a dream team. We offer white glove service throughout the Charlotte Metro area. Let's collab!\n  </p>",
+            "author": {
+                "name": "njhovik"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-11T11:48:08-05:00",
+            "date_modified": "2026-01-13T15:56:26-05:00"
+        }
     ]
 }
